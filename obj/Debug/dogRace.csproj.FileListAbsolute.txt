@@ -1,0 +1,10 @@
+D:\Users\monky\source\repos\dogRace\bin\Debug\dogRace.exe.config
+D:\Users\monky\source\repos\dogRace\bin\Debug\dogRace.exe
+D:\Users\monky\source\repos\dogRace\bin\Debug\dogRace.pdb
+D:\Users\monky\source\repos\dogRace\obj\Debug\dogRace.csprojAssemblyReference.cache
+D:\Users\monky\source\repos\dogRace\obj\Debug\dogRace.Form1.resources
+D:\Users\monky\source\repos\dogRace\obj\Debug\dogRace.Properties.Resources.resources
+D:\Users\monky\source\repos\dogRace\obj\Debug\dogRace.csproj.GenerateResource.cache
+D:\Users\monky\source\repos\dogRace\obj\Debug\dogRace.csproj.CoreCompileInputs.cache
+D:\Users\monky\source\repos\dogRace\obj\Debug\dogRace.exe
+D:\Users\monky\source\repos\dogRace\obj\Debug\dogRace.pdb
