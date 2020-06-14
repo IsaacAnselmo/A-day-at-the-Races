@@ -13,6 +13,7 @@ namespace dogRace
         public int Dog;
         public Guy Bettor;
 
+
         public string GetDescription()
         {
             
